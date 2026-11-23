@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "title": "Атом әдеттер",
+    "author": "James Clear",
+    "language": "Kazakh",
+    "genre": "Psychology & Self-development",
+    "description": "Кішкентай күнделікті әдеттер арқылы үлкен нәтижеге жету туралы кітап.",
+    "topics": ["habits", "discipline", "productivity"],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "title": "Ойлан да, байы",
+    "author": "Napoleon Hill",
+    "language": "Kazakh",
+    "genre": "Psychology & Self-development",
+    "description": "Мақсат қою, ойлау жүйесі және жетістікке жету принциптері туралы.",
+    "topics": ["success", "motivation", "goals"],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 3,
+    "title": "Кішкентай ханзада",
+    "author": "Antoine de Saint-Exupéry",
+    "language": "Kazakh",
+    "genre": "Fiction",
+    "description": "Достық, махаббат және өмірдің маңызды құндылықтары туралы философиялық шығарма.",
+    "topics": ["friendship", "love", "life"],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "title": "1984",
+    "author": "George Orwell",
+    "language": "Russian",
+    "genre": "Mystery & Detective",
+    "description": "Қоғамды бақылау, еркіндік және билік туралы антиутопиялық роман.",
+    "topics": ["society", "freedom", "politics"],
+    "difficulty": "Medium"
+  },
+  {
+    "id": 5,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "language": "English",
+    "genre": "Adventure & Fantasy",
+    "description": "Арманға жету және өз жолыңды табу туралы саяхат оқиғасы.",
+    "topics": ["dreams", "journey", "purpose"],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "language": "English",
+    "genre": "Psychology & Self-development",
+    "description": "Practical strategies for building good habits and breaking bad ones.",
+    "topics": ["habits", "discipline", "productivity"],
+    "difficulty": "Easy"
+  }
+]
